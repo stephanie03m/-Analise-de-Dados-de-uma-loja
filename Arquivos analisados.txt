@@ -1,0 +1,7 @@
+Arquivos de análise
+
+https://ml-challenge.s3.amazonaws.com/ds-intern-2020/offline_sales.json.gz
+
+https://ml-challenge.s3.amazonaws.com/ds-intern-2020/online_pageviews.json.gz
+
+https://ml-challenge.s3.amazonaws.com/ds-intern-2020/online_orders.json.gz
